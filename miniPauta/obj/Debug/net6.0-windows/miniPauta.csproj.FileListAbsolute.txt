@@ -1,0 +1,51 @@
+C:\Users\admin\Desktop\miniPauta\miniPauta\bin\Debug\net6.0-windows\miniPauta.exe
+C:\Users\admin\Desktop\miniPauta\miniPauta\bin\Debug\net6.0-windows\miniPauta.deps.json
+C:\Users\admin\Desktop\miniPauta\miniPauta\bin\Debug\net6.0-windows\miniPauta.runtimeconfig.json
+C:\Users\admin\Desktop\miniPauta\miniPauta\bin\Debug\net6.0-windows\miniPauta.dll
+C:\Users\admin\Desktop\miniPauta\miniPauta\bin\Debug\net6.0-windows\miniPauta.pdb
+C:\Users\admin\Desktop\miniPauta\miniPauta\obj\Debug\net6.0-windows\miniPauta.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\miniPauta\miniPauta\obj\Debug\net6.0-windows\miniPauta.Form1.resources
+C:\Users\admin\Desktop\miniPauta\miniPauta\obj\Debug\net6.0-windows\miniPauta.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\miniPauta\miniPauta\obj\Debug\net6.0-windows\miniPauta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\miniPauta\miniPauta\obj\Debug\net6.0-windows\miniPauta.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\miniPauta\miniPauta\obj\Debug\net6.0-windows\miniPauta.AssemblyInfo.cs
+C:\Users\admin\Desktop\miniPauta\miniPauta\obj\Debug\net6.0-windows\miniPauta.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\miniPauta\miniPauta\obj\Debug\net6.0-windows\miniPauta.dll
+C:\Users\admin\Desktop\miniPauta\miniPauta\obj\Debug\net6.0-windows\refint\miniPauta.dll
+C:\Users\admin\Desktop\miniPauta\miniPauta\obj\Debug\net6.0-windows\miniPauta.pdb
+C:\Users\admin\Desktop\miniPauta\miniPauta\obj\Debug\net6.0-windows\miniPauta.genruntimeconfig.cache
+C:\Users\admin\Desktop\miniPauta\miniPauta\obj\Debug\net6.0-windows\ref\miniPauta.dll
+C:\Users\berto\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\miniPauta\miniPauta\bin\Debug\net6.0-windows\miniPauta.exe
+C:\Users\berto\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\miniPauta\miniPauta\bin\Debug\net6.0-windows\miniPauta.dll
+C:\Users\admin\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\miniPauta\miniPauta\bin\Debug\net6.0-windows\miniPauta.exe
+C:\Users\admin\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\miniPauta\miniPauta\bin\Debug\net6.0-windows\miniPauta.deps.json
+C:\Users\admin\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\miniPauta\miniPauta\bin\Debug\net6.0-windows\miniPauta.runtimeconfig.json
+C:\Users\admin\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\miniPauta\miniPauta\bin\Debug\net6.0-windows\miniPauta.dll
+C:\Users\admin\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\miniPauta\miniPauta\bin\Debug\net6.0-windows\miniPauta.pdb
+C:\Users\admin\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\miniPauta\miniPauta\obj\Debug\net6.0-windows\miniPauta.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\miniPauta\miniPauta\obj\Debug\net6.0-windows\miniPauta.Form1.resources
+C:\Users\admin\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\miniPauta\miniPauta\obj\Debug\net6.0-windows\miniPauta.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\miniPauta\miniPauta\obj\Debug\net6.0-windows\miniPauta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\miniPauta\miniPauta\obj\Debug\net6.0-windows\miniPauta.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\miniPauta\miniPauta\obj\Debug\net6.0-windows\miniPauta.AssemblyInfo.cs
+C:\Users\admin\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\miniPauta\miniPauta\obj\Debug\net6.0-windows\miniPauta.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\miniPauta\miniPauta\obj\Debug\net6.0-windows\miniPauta.dll
+C:\Users\admin\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\miniPauta\miniPauta\obj\Debug\net6.0-windows\refint\miniPauta.dll
+C:\Users\admin\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\miniPauta\miniPauta\obj\Debug\net6.0-windows\miniPauta.pdb
+C:\Users\admin\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\miniPauta\miniPauta\obj\Debug\net6.0-windows\miniPauta.genruntimeconfig.cache
+C:\Users\admin\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\miniPauta\miniPauta\obj\Debug\net6.0-windows\ref\miniPauta.dll
+C:\Users\berto\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\miniPauta\miniPauta\obj\Debug\net6.0-windows\miniPauta.csproj.AssemblyReference.cache
+C:\Users\berto\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\miniPauta\miniPauta\obj\Debug\net6.0-windows\miniPauta.Form1.resources
+C:\Users\berto\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\miniPauta\miniPauta\obj\Debug\net6.0-windows\miniPauta.csproj.GenerateResource.cache
+C:\Users\berto\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\miniPauta\miniPauta\obj\Debug\net6.0-windows\miniPauta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berto\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\miniPauta\miniPauta\obj\Debug\net6.0-windows\miniPauta.AssemblyInfoInputs.cache
+C:\Users\berto\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\miniPauta\miniPauta\obj\Debug\net6.0-windows\miniPauta.AssemblyInfo.cs
+C:\Users\berto\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\miniPauta\miniPauta\obj\Debug\net6.0-windows\miniPauta.csproj.CoreCompileInputs.cache
+C:\Users\berto\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\miniPauta\miniPauta\obj\Debug\net6.0-windows\miniPauta.dll
+C:\Users\berto\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\miniPauta\miniPauta\obj\Debug\net6.0-windows\refint\miniPauta.dll
+C:\Users\berto\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\miniPauta\miniPauta\obj\Debug\net6.0-windows\miniPauta.pdb
+C:\Users\berto\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\miniPauta\miniPauta\bin\Debug\net6.0-windows\miniPauta.deps.json
+C:\Users\berto\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\miniPauta\miniPauta\bin\Debug\net6.0-windows\miniPauta.runtimeconfig.json
+C:\Users\berto\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\miniPauta\miniPauta\bin\Debug\net6.0-windows\miniPauta.pdb
+C:\Users\berto\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\miniPauta\miniPauta\obj\Debug\net6.0-windows\miniPauta.genruntimeconfig.cache
+C:\Users\berto\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\miniPauta\miniPauta\obj\Debug\net6.0-windows\ref\miniPauta.dll

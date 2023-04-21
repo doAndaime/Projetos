@@ -1,0 +1,54 @@
+C:\Users\berto\source\repos\producao_taca\producao_taca\bin\Debug\net6.0-windows\producao_taca.exe
+C:\Users\berto\source\repos\producao_taca\producao_taca\bin\Debug\net6.0-windows\producao_taca.deps.json
+C:\Users\berto\source\repos\producao_taca\producao_taca\bin\Debug\net6.0-windows\producao_taca.runtimeconfig.json
+C:\Users\berto\source\repos\producao_taca\producao_taca\bin\Debug\net6.0-windows\producao_taca.dll
+C:\Users\berto\source\repos\producao_taca\producao_taca\bin\Debug\net6.0-windows\producao_taca.pdb
+C:\Users\berto\source\repos\producao_taca\producao_taca\obj\Debug\net6.0-windows\producao_taca.vbproj.AssemblyReference.cache
+C:\Users\berto\source\repos\producao_taca\producao_taca\obj\Debug\net6.0-windows\producao_taca.Form1.resources
+C:\Users\berto\source\repos\producao_taca\producao_taca\obj\Debug\net6.0-windows\producao_taca.Form2.resources
+C:\Users\berto\source\repos\producao_taca\producao_taca\obj\Debug\net6.0-windows\producao_taca.vbproj.GenerateResource.cache
+C:\Users\berto\source\repos\producao_taca\producao_taca\obj\Debug\net6.0-windows\producao_taca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berto\source\repos\producao_taca\producao_taca\obj\Debug\net6.0-windows\producao_taca.AssemblyInfoInputs.cache
+C:\Users\berto\source\repos\producao_taca\producao_taca\obj\Debug\net6.0-windows\producao_taca.AssemblyInfo.vb
+C:\Users\berto\source\repos\producao_taca\producao_taca\obj\Debug\net6.0-windows\producao_taca.vbproj.CoreCompileInputs.cache
+C:\Users\berto\source\repos\producao_taca\producao_taca\obj\Debug\net6.0-windows\producao_taca.dll
+C:\Users\berto\source\repos\producao_taca\producao_taca\obj\Debug\net6.0-windows\refint\producao_taca.dll
+C:\Users\berto\source\repos\producao_taca\producao_taca\obj\Debug\net6.0-windows\producao_taca.pdb
+C:\Users\berto\source\repos\producao_taca\producao_taca\obj\Debug\net6.0-windows\producao_taca.genruntimeconfig.cache
+C:\Users\berto\source\repos\producao_taca\producao_taca\obj\Debug\net6.0-windows\ref\producao_taca.dll
+C:\Users\berto\OneDrive - IEFP Formação\producao_taca\producao_taca\bin\Debug\net6.0-windows\producao_taca.exe
+C:\Users\berto\OneDrive - IEFP Formação\producao_taca\producao_taca\bin\Debug\net6.0-windows\producao_taca.deps.json
+C:\Users\berto\OneDrive - IEFP Formação\producao_taca\producao_taca\bin\Debug\net6.0-windows\producao_taca.runtimeconfig.json
+C:\Users\berto\OneDrive - IEFP Formação\producao_taca\producao_taca\bin\Debug\net6.0-windows\producao_taca.dll
+C:\Users\berto\OneDrive - IEFP Formação\producao_taca\producao_taca\bin\Debug\net6.0-windows\producao_taca.pdb
+C:\Users\berto\OneDrive - IEFP Formação\producao_taca\producao_taca\obj\Debug\net6.0-windows\producao_taca.vbproj.AssemblyReference.cache
+C:\Users\berto\OneDrive - IEFP Formação\producao_taca\producao_taca\obj\Debug\net6.0-windows\producao_taca.Form1.resources
+C:\Users\berto\OneDrive - IEFP Formação\producao_taca\producao_taca\obj\Debug\net6.0-windows\producao_taca.Form2.resources
+C:\Users\berto\OneDrive - IEFP Formação\producao_taca\producao_taca\obj\Debug\net6.0-windows\producao_taca.vbproj.GenerateResource.cache
+C:\Users\berto\OneDrive - IEFP Formação\producao_taca\producao_taca\obj\Debug\net6.0-windows\producao_taca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berto\OneDrive - IEFP Formação\producao_taca\producao_taca\obj\Debug\net6.0-windows\producao_taca.AssemblyInfoInputs.cache
+C:\Users\berto\OneDrive - IEFP Formação\producao_taca\producao_taca\obj\Debug\net6.0-windows\producao_taca.AssemblyInfo.vb
+C:\Users\berto\OneDrive - IEFP Formação\producao_taca\producao_taca\obj\Debug\net6.0-windows\producao_taca.vbproj.CoreCompileInputs.cache
+C:\Users\berto\OneDrive - IEFP Formação\producao_taca\producao_taca\obj\Debug\net6.0-windows\producao_taca.dll
+C:\Users\berto\OneDrive - IEFP Formação\producao_taca\producao_taca\obj\Debug\net6.0-windows\refint\producao_taca.dll
+C:\Users\berto\OneDrive - IEFP Formação\producao_taca\producao_taca\obj\Debug\net6.0-windows\producao_taca.pdb
+C:\Users\berto\OneDrive - IEFP Formação\producao_taca\producao_taca\obj\Debug\net6.0-windows\producao_taca.genruntimeconfig.cache
+C:\Users\berto\OneDrive - IEFP Formação\producao_taca\producao_taca\obj\Debug\net6.0-windows\ref\producao_taca.dll
+C:\Users\admin\OneDrive - IEFP Formação\producao_taca VBNet\producao_taca\bin\Debug\net6.0-windows\producao_taca.exe
+C:\Users\admin\OneDrive - IEFP Formação\producao_taca VBNet\producao_taca\bin\Debug\net6.0-windows\producao_taca.deps.json
+C:\Users\admin\OneDrive - IEFP Formação\producao_taca VBNet\producao_taca\bin\Debug\net6.0-windows\producao_taca.runtimeconfig.json
+C:\Users\admin\OneDrive - IEFP Formação\producao_taca VBNet\producao_taca\bin\Debug\net6.0-windows\producao_taca.dll
+C:\Users\admin\OneDrive - IEFP Formação\producao_taca VBNet\producao_taca\bin\Debug\net6.0-windows\producao_taca.pdb
+C:\Users\admin\OneDrive - IEFP Formação\producao_taca VBNet\producao_taca\obj\Debug\net6.0-windows\producao_taca.vbproj.AssemblyReference.cache
+C:\Users\admin\OneDrive - IEFP Formação\producao_taca VBNet\producao_taca\obj\Debug\net6.0-windows\producao_taca.Form1.resources
+C:\Users\admin\OneDrive - IEFP Formação\producao_taca VBNet\producao_taca\obj\Debug\net6.0-windows\producao_taca.Form2.resources
+C:\Users\admin\OneDrive - IEFP Formação\producao_taca VBNet\producao_taca\obj\Debug\net6.0-windows\producao_taca.vbproj.GenerateResource.cache
+C:\Users\admin\OneDrive - IEFP Formação\producao_taca VBNet\producao_taca\obj\Debug\net6.0-windows\producao_taca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive - IEFP Formação\producao_taca VBNet\producao_taca\obj\Debug\net6.0-windows\producao_taca.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive - IEFP Formação\producao_taca VBNet\producao_taca\obj\Debug\net6.0-windows\producao_taca.AssemblyInfo.vb
+C:\Users\admin\OneDrive - IEFP Formação\producao_taca VBNet\producao_taca\obj\Debug\net6.0-windows\producao_taca.vbproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive - IEFP Formação\producao_taca VBNet\producao_taca\obj\Debug\net6.0-windows\producao_taca.dll
+C:\Users\admin\OneDrive - IEFP Formação\producao_taca VBNet\producao_taca\obj\Debug\net6.0-windows\refint\producao_taca.dll
+C:\Users\admin\OneDrive - IEFP Formação\producao_taca VBNet\producao_taca\obj\Debug\net6.0-windows\producao_taca.pdb
+C:\Users\admin\OneDrive - IEFP Formação\producao_taca VBNet\producao_taca\obj\Debug\net6.0-windows\producao_taca.genruntimeconfig.cache
+C:\Users\admin\OneDrive - IEFP Formação\producao_taca VBNet\producao_taca\obj\Debug\net6.0-windows\ref\producao_taca.dll

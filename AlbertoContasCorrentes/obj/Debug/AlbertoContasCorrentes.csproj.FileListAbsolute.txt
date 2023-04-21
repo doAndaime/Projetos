@@ -1,0 +1,35 @@
+C:\Users\admin\source\repos\AlbertoContasCorrentes\AlbertoContasCorrentes\bin\Debug\AlbertoContasCorrentes.exe.config
+C:\Users\admin\source\repos\AlbertoContasCorrentes\AlbertoContasCorrentes\bin\Debug\AlbertoContasCorrentes.exe
+C:\Users\admin\source\repos\AlbertoContasCorrentes\AlbertoContasCorrentes\bin\Debug\AlbertoContasCorrentes.pdb
+C:\Users\admin\source\repos\AlbertoContasCorrentes\AlbertoContasCorrentes\obj\Debug\AlbertoContasCorrentes.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\AlbertoContasCorrentes\AlbertoContasCorrentes\obj\Debug\AlbertoContasCorrentes.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\AlbertoContasCorrentes\AlbertoContasCorrentes\obj\Debug\AlbertoContasCorrentes.Form1.resources
+C:\Users\admin\source\repos\AlbertoContasCorrentes\AlbertoContasCorrentes\obj\Debug\AlbertoContasCorrentes.Properties.Resources.resources
+C:\Users\admin\source\repos\AlbertoContasCorrentes\AlbertoContasCorrentes\obj\Debug\AlbertoContasCorrentes.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\AlbertoContasCorrentes\AlbertoContasCorrentes\obj\Debug\AlbertoContasCorrentes.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\AlbertoContasCorrentes\AlbertoContasCorrentes\obj\Debug\AlbertoContasCorrentes.exe
+C:\Users\admin\source\repos\AlbertoContasCorrentes\AlbertoContasCorrentes\obj\Debug\AlbertoContasCorrentes.pdb
+C:\Users\berto\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\AlbertoContasCorrentes\AlbertoContasCorrentes\bin\Debug\AlbertoContasCorrentes.exe.config
+C:\Users\berto\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\AlbertoContasCorrentes\AlbertoContasCorrentes\bin\Debug\AlbertoContasCorrentes.exe
+C:\Users\berto\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\AlbertoContasCorrentes\AlbertoContasCorrentes\bin\Debug\AlbertoContasCorrentes.pdb
+C:\Users\berto\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\AlbertoContasCorrentes\AlbertoContasCorrentes\obj\Debug\AlbertoContasCorrentes.csproj.AssemblyReference.cache
+C:\Users\berto\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\AlbertoContasCorrentes\AlbertoContasCorrentes\obj\Debug\AlbertoContasCorrentes.csproj.SuggestedBindingRedirects.cache
+C:\Users\berto\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\AlbertoContasCorrentes\AlbertoContasCorrentes\obj\Debug\AlbertoContasCorrentes.Form1.resources
+C:\Users\berto\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\AlbertoContasCorrentes\AlbertoContasCorrentes\obj\Debug\AlbertoContasCorrentes.Properties.Resources.resources
+C:\Users\berto\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\AlbertoContasCorrentes\AlbertoContasCorrentes\obj\Debug\AlbertoContasCorrentes.csproj.GenerateResource.cache
+C:\Users\berto\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\AlbertoContasCorrentes\AlbertoContasCorrentes\obj\Debug\AlbertoContasCorrentes.csproj.CoreCompileInputs.cache
+C:\Users\berto\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\AlbertoContasCorrentes\AlbertoContasCorrentes\obj\Debug\AlbertoContasCorrentes.exe
+C:\Users\berto\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\AlbertoContasCorrentes\AlbertoContasCorrentes\obj\Debug\AlbertoContasCorrentes.pdb
+C:\Users\berto\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\AlbertoContasCorrentes\AlbertoContasCorrentes\obj\Debug\AlbertoContasCorrentes.FormClientes.resources
+C:\Users\admin\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\AlbertoContasCorrentes\AlbertoContasCorrentes\bin\Debug\AlbertoContasCorrentes.exe.config
+C:\Users\admin\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\AlbertoContasCorrentes\AlbertoContasCorrentes\bin\Debug\AlbertoContasCorrentes.exe
+C:\Users\admin\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\AlbertoContasCorrentes\AlbertoContasCorrentes\bin\Debug\AlbertoContasCorrentes.pdb
+C:\Users\admin\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\AlbertoContasCorrentes\AlbertoContasCorrentes\obj\Debug\AlbertoContasCorrentes.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\AlbertoContasCorrentes\AlbertoContasCorrentes\obj\Debug\AlbertoContasCorrentes.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\AlbertoContasCorrentes\AlbertoContasCorrentes\obj\Debug\AlbertoContasCorrentes.Form1.resources
+C:\Users\admin\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\AlbertoContasCorrentes\AlbertoContasCorrentes\obj\Debug\AlbertoContasCorrentes.FormClientes.resources
+C:\Users\admin\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\AlbertoContasCorrentes\AlbertoContasCorrentes\obj\Debug\AlbertoContasCorrentes.Properties.Resources.resources
+C:\Users\admin\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\AlbertoContasCorrentes\AlbertoContasCorrentes\obj\Debug\AlbertoContasCorrentes.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\AlbertoContasCorrentes\AlbertoContasCorrentes\obj\Debug\AlbertoContasCorrentes.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\AlbertoContasCorrentes\AlbertoContasCorrentes\obj\Debug\AlbertoContasCorrentes.exe
+C:\Users\admin\OneDrive - IEFP Formação\Programador Informático\UFCD 21 - C#\AlbertoContasCorrentes\AlbertoContasCorrentes\obj\Debug\AlbertoContasCorrentes.pdb

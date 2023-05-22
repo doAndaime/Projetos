@@ -14,8 +14,8 @@ namespace Diversos
 {
     public class ConectaBD
     {
-        public string strConn = "data source = 10.30.10.1,62444;Initial Catalog = AlbertoContasCorrentes;User Id=EFAAlberto;Password = A.123.bc;";
-        public string strConn2 = "data source = 62.28.39.135,62444;Initial Catalog = AlbertoContasCorrentes;User Id=EFAAlberto;Password = A.123.bc;";
+        public string strConn = "data source = ;Initial Catalog = AlbertoContasCorrentes;User Id=EFAAlberto;Password = ;";
+        public string strConn2 = "data source =;Initial Catalog = AlbertoContasCorrentes;User Id=EFAAlberto;Password = ;";
 
         public string ssql = "";
         public System.Data.DataTable BuscarDados()
